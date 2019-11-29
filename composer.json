@@ -1,0 +1,16 @@
+{
+    "name": "dbursak/yii2-tinymce-widget",
+    "description": "TinyMCE widget for Yii2.",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "^2.0",
+        "tinymce/tinymce": "4.9.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dbursak\\tinymce\\": "src"
+        }
+    }
+}
