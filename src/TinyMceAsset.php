@@ -1,6 +1,6 @@
 <?php
 
-namespace readon\tinymce;
+namespace dbursak\tinymce;
 
 use yii\web\AssetBundle;
 
